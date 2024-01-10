@@ -103,3 +103,20 @@ body{
     color: whitesmoke;
     font-size: 30px;
 }
+
+
+.back-to-top a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.bottom-h1 h1{
+    margin-bottom: 100px;
+}
