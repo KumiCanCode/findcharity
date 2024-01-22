@@ -57,8 +57,8 @@ body{
     background-color: rgb(0, 138, 184);
 }
 
-.navabr.active ul li a{
-    color: blue;
+.navbar.active ul li a{
+    color: black;
 }
 
 .content{
